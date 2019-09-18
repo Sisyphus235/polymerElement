@@ -2,6 +2,7 @@
   "name": "v3-demo",
   "description": "v3 demo",
   "main": "v3-demo.js",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/Sisyphus235/polymerElement.git"
